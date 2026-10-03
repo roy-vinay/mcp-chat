@@ -1,6 +1,6 @@
 # MCP Chat
 
-> **This project now lives in [applied-ai-agents](https://github.com/roy-vinay/applied-ai-agents/tree/main/agents/mcp-chat)**, alongside my other agents. This repo stays up for its live demo and history.
+> **This project now lives in [applied-ai-agents](https://github.com/roy-vinay/applied-ai-agents/tree/main/agents/mcp-chat)**, alongside my other agents. This repo stays up so existing links keep working.
 
 MCP Chat is a command-line interface application that enables interactive chat capabilities with AI models through the Anthropic API. The application supports document retrieval, command-based prompts, and extensible tool integrations via the MCP (Model Control Protocol) architecture.
 
